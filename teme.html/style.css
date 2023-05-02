@@ -1,0 +1,42 @@
+.card_img{
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    
+    
+}
+.card{
+    background-color:brown;
+    width: 300px;    
+    border-radius: 25px;
+}
+
+.card_title{
+    color: blue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+      
+}
+
+.card_text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 19px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: 200px;
+}
+
+.card_btn {
+  text-align: center;
+  width: 300px;
+  height: 30px;
+  background-color: greenyellow;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  cursor: pointer;
+  border-radius: 25px;   
+}
+
+.container{
+    display: flex; gap: 20px;
+}

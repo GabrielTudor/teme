@@ -1,0 +1,36 @@
+.t1{
+    color: red;
+}
+h2{
+    color: green;
+}
+.mypara{
+    color: yellow;
+}
+
+.t2{
+    border-radius: 25px;
+    
+    border: blue solid 5px; 
+}
+   
+
+.para{
+    border: green dotted 3px;
+
+}
+  
+.my-page{
+    width: 300px;
+    height: 200px;
+    border: green solid;
+}
+
+ul{
+    background: red;
+    padding: 20px;
+}
+li{
+    background: #ee7969;
+    margin: 5px;
+}

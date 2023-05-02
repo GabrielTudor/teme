@@ -1,0 +1,38 @@
+div{
+    border: solid 1px;
+    width: 500px;
+    height: 300px;
+    
+    
+}
+h6{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+.mypara{
+    text-align: center;
+    border: solid 1px;
+    width:70px;
+    margin: auto;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    font-size: 20px;
+    
+    
+
+
+    
+}
+    
+   
+
+   
+
