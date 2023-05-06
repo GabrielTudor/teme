@@ -1,0 +1,34 @@
+
+body{
+    max-width: 1200px;
+}
+
+
+h3{
+    padding-left: 20px;
+    margin-bottom: 0;
+}
+
+
+p{
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    height: 200px;
+    margin: 20px;
+    
+}
+
+img{
+    width: 150px;
+    margin: auto;
+    display: block;
+}
+
+.container div{
+    width: 15%;
+    display: inline-block;
+
+}

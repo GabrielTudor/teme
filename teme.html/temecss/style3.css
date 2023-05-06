@@ -1,0 +1,37 @@
+
+
+
+div{
+   border: solid 1px;
+   width: 400px;
+   height: 300px;
+   padding-left: 70px;
+   padding-top: 40px;
+   padding-right: 400px;
+   background-color: rgb(3, 3, 34);
+   margin: 50px;
+   
+   
+     
+}
+
+h1{
+    color: white;
+}
+.mypara{
+    font-size: 25px;
+    color: white;
+}
+
+button{
+    border: 30px;
+    border-radius: 20px;
+    font-size: 17px;
+    width: 100px;
+}
+p{
+    font-size: 10px;
+    color: rgb(133, 100, 100);
+
+}
+
