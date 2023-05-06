@@ -1,0 +1,43 @@
+
+body{
+    max-width: 1200px;
+}
+
+
+.container{
+    width: 350px;
+    position: relative;
+    bottom: 440px;
+}
+
+
+.container2{
+    width: 450px;
+    position: relative;
+    bottom: 430px;
+}
+
+.child1{
+    position: relative;
+    left: 460px;
+    bottom: 170px;
+    width: 530px;
+    
+}
+
+
+.container3{
+    width: 350px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.image {
+    width: 600px;
+    height: 400px;
+    position: relative;
+    left: 375px;
+    margin-top: 20px;
+
+}
