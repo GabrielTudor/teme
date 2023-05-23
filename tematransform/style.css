@@ -1,0 +1,40 @@
+
+.parent .child{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin-bottom: 50px;
+    
+}
+
+.parent :nth-child(1){
+    background-color:blueviolet;
+    height: 180px;
+    transition: ease-in 4s;
+}
+
+.parent :nth-child(2){
+    height: 100px;
+    background-color:brown;
+    transform: rotate(0.5deg);
+    transition: ease-in-out 4s;
+}
+
+.parent :nth-child(3){
+    background-color:coral;
+    border-radius: 100px;
+    transition: ease-out 5s;
+}
+.parent :nth-child(4){
+    background-color: blue;
+    transform: skew(55deg, 10deg);
+    margin-left: 100px;
+    height: 100px;
+    transform: rotate(30deg);
+    transition: ease-in 7s;
+}
+.child:hover{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+}
